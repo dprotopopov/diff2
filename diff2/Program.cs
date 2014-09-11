@@ -95,7 +95,7 @@ namespace diff2
                          + (s(xj)*dt*(prev.ElementAt(j + 1) + prev.ElementAt(j - 1) - 2*prev.ElementAt(j))/(h*h))
                          - (v(xj)*dt*(prev.ElementAt(j + 1) - prev.ElementAt(j - 1))/(2*h))
                          - (k(xj)*dt*prev.ElementAt(j))
-                         + f(xj)*dt);
+                         + (f(xj)/q(xj)*dt));
             }
             next.Add(b);
             return next;

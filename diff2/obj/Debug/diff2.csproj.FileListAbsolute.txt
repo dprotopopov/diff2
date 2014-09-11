@@ -9,3 +9,4 @@ D:\Projects\diff2\diff2\obj\Debug\diff2.exe
 D:\Projects\diff2\diff2\obj\Debug\diff2.pdb
 D:\Projects\diff2\diff2\bin\Debug\diff2.exe
 D:\Projects\diff2\diff2\bin\Debug\diff2.pdb
+D:\Projects\diff2\diff2\obj\Debug\diff2.csprojResolveAssemblyReference.cache
