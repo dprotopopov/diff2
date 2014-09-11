@@ -1,0 +1,11 @@
+D:\Projects\psycholine\diff2\diff2\bin\Debug\diff2.exe.config
+D:\Projects\psycholine\diff2\diff2\bin\Debug\diff2.exe
+D:\Projects\psycholine\diff2\diff2\bin\Debug\diff2.pdb
+D:\Projects\psycholine\diff2\diff2\obj\Debug\diff2.csprojResolveAssemblyReference.cache
+D:\Projects\psycholine\diff2\diff2\obj\Debug\diff2.exe
+D:\Projects\psycholine\diff2\diff2\obj\Debug\diff2.pdb
+D:\Projects\diff2\diff2\bin\Debug\diff2.exe.config
+D:\Projects\diff2\diff2\obj\Debug\diff2.exe
+D:\Projects\diff2\diff2\obj\Debug\diff2.pdb
+D:\Projects\diff2\diff2\bin\Debug\diff2.exe
+D:\Projects\diff2\diff2\bin\Debug\diff2.pdb
